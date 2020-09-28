@@ -1,0 +1,13 @@
+C:\Users\Felipe\Desktop\arquivos_de_programação\programas C#\demonstracao\demonstracao\bin\Debug\demonstracao.exe.config
+C:\Users\Felipe\Desktop\arquivos_de_programação\programas C#\demonstracao\demonstracao\bin\Debug\demonstracao.exe
+C:\Users\Felipe\Desktop\arquivos_de_programação\programas C#\demonstracao\demonstracao\bin\Debug\demonstracao.pdb
+C:\Users\Felipe\Desktop\arquivos_de_programação\programas C#\demonstracao\demonstracao\bin\Debug\MySql.Data.dll
+C:\Users\Felipe\Desktop\arquivos_de_programação\programas C#\demonstracao\demonstracao\obj\Debug\demonstracao.csprojAssemblyReference.cache
+C:\Users\Felipe\Desktop\arquivos_de_programação\programas C#\demonstracao\demonstracao\obj\Debug\demonstracao.Form1.resources
+C:\Users\Felipe\Desktop\arquivos_de_programação\programas C#\demonstracao\demonstracao\obj\Debug\demonstracao.Properties.Resources.resources
+C:\Users\Felipe\Desktop\arquivos_de_programação\programas C#\demonstracao\demonstracao\obj\Debug\demonstracao.csproj.GenerateResource.cache
+C:\Users\Felipe\Desktop\arquivos_de_programação\programas C#\demonstracao\demonstracao\obj\Debug\demonstracao.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\arquivos_de_programação\programas C#\demonstracao\demonstracao\obj\Debug\demonstracao.csproj.CopyComplete
+C:\Users\Felipe\Desktop\arquivos_de_programação\programas C#\demonstracao\demonstracao\obj\Debug\demonstracao.exe
+C:\Users\Felipe\Desktop\arquivos_de_programação\programas C#\demonstracao\demonstracao\obj\Debug\demonstracao.pdb
+C:\Users\Felipe\Desktop\arquivos_de_programação\programas C#\demonstracao\demonstracao\obj\Debug\demonstracao.Form2.resources
